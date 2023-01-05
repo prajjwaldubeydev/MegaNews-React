@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MegaNews-React/static/css/main.abd64e84.css",
+    "main.js": "/MegaNews-React/static/js/main.e4a39e2b.js",
+    "static/js/787.6e84b1e9.chunk.js": "/MegaNews-React/static/js/787.6e84b1e9.chunk.js",
+    "index.html": "/MegaNews-React/index.html",
+    "main.abd64e84.css.map": "/MegaNews-React/static/css/main.abd64e84.css.map",
+    "main.e4a39e2b.js.map": "/MegaNews-React/static/js/main.e4a39e2b.js.map",
+    "787.6e84b1e9.chunk.js.map": "/MegaNews-React/static/js/787.6e84b1e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.e4a39e2b.js"
+  ]
+}
